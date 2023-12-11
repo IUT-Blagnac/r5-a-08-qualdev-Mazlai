@@ -38,4 +38,7 @@ Feature: Is it Friday yet?
     | anything else! | Nope   |
 ---
 
+.Capture d'écran des tests
+image::./assets/TP1/capture-feature.PNG[width=80%]
+
 == TP2...
