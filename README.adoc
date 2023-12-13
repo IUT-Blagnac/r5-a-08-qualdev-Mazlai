@@ -84,3 +84,8 @@ public class Order {
     }
 }
 ---
+
+.Capture d'écran des tests du TP2
+image::./assets/TP2/TestTP2.png[width=80%]
+
+== TP3
