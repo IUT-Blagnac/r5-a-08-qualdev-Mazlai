@@ -90,10 +90,19 @@ image::./assets/TP2/TestTP2.png[width=80%]
 
 == TP4
 
-Seule la documentation Cukedoctor sera fournie (car Serenity ne semble pas avoir les permissions requises) :
+Seule la documentation Cukedoctor sera fournie :
 
 http://127.0.0.1:5500/hellocucumber/target/cukedoctor/documentation.html
 
 Ou alors vous avez un extrait ici-même du rendu avec ``hellocucumber`` :
 
 image::./assets/TP4/Capture.PNG[width=80%]
+
+Pour Selenium, le dépôt à cloner ne fonctionnait pas à l'exécution de la commande ``mvn clean verify``.
+Pour cela, remplacer chaque occurence de "Mount Everest" par "Everest".
+
+Ainsi, nous pourrons observer une magnifique documentation Selenium disponible ici-même :
+
+http://127.0.0.1:5501/target/site/serenity/capabilities.html
+
+Ou alors, un exemple est figuré ci-dessous :
