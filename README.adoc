@@ -88,4 +88,12 @@ public class Order {
 .Capture d'écran des tests du TP2
 image::./assets/TP2/TestTP2.png[width=80%]
 
-== TP3
+== TP4
+
+Seule la documentation Cukedoctor sera fournie (car Serenity ne semble pas avoir les permissions requises) :
+
+http://127.0.0.1:5500/hellocucumber/target/cukedoctor/documentation.html
+
+Ou alors vous avez un extrait ici-même du rendu avec ``hellocucumber`` :
+
+
