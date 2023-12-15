@@ -106,3 +106,5 @@ Ainsi, nous pourrons observer une magnifique documentation Selenium disponible i
 http://127.0.0.1:5501/target/site/serenity/capabilities.html
 
 Ou alors, un exemple est figuré ci-dessous :
+
+image::./assets/TP4/Capture2.PNG[width=80%]
